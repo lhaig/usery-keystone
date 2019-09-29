@@ -1,13 +1,15 @@
-# usery-keystone
+# Usery-keystone
 
 Docker container to test the Usery portal Openstack integration.
+
+<https://github.com/lhaig/usery>
+
 As part of the CICD pipeline.
 
 This container install keystone and the horizon dashboard.
 
-the dafsault 
+The dafsault
 username = admin
 password = secret
 
 This is not intended for any other usage
-
