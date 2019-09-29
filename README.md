@@ -8,7 +8,7 @@ As part of the CICD pipeline.
 
 This container install keystone and the horizon dashboard.
 
-The dafsault
+The dafault
 username = admin
 password = secret
 
